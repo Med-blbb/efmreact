@@ -1,0 +1,18 @@
+.hdr {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  height: 60px;
+  background-color: gray;
+  color: #fff;
+  justify-content: flex-end;
+}
+
+.hdr-links {
+  margin-left: 10px;
+}
+
+.hdr-links a {
+  text-decoration: none;
+}
